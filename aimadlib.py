@@ -23,7 +23,7 @@ verb2 = input("Enter another verb: ")
 
 # AI Prompt
 prompt = f"""
-Create a short, funny story using these words:
+Create a compelling and to the point story using these words:
 - Noun: {noun1}
 - Adjective: {adjective1}
 - Verb: {verb1}
