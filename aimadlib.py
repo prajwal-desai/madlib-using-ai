@@ -30,9 +30,8 @@ Create a short, funny story using these words:
 - Noun: {noun2}
 - Verb: {verb2}
 
-Make the story engaging, and unique!
+Make the story engaging,serious, and unique!
 """
-
 
 response = model.generate_content(prompt)
 
